@@ -1,0 +1,23 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 1, 2 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 4833,
+    "height" : 6634
+  }, {
+    "width" : 7250,
+    "height" : 9951
+  }, {
+    "width" : 14500,
+    "height" : 19903
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 14500,
+  "@id" : "https://retrogram.jezik.hr/gramatike/della-bella/iiif/44",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 19903
+}
